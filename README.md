@@ -1,4 +1,4 @@
-# TreeArchitectureQSM
+# TreeQSM_Architecture
 Functions to extract architectural measures from 3D models of trees based on TLS data
 
 This repo conatins matlab functions to calculate tree architecture models from QSMs. 
