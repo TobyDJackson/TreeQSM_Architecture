@@ -1,6 +1,8 @@
 # TreeQSM_Architecture
 Functions to extract architectural measures from 3D models of trees based on TLS data
 
+![alt text](https://github.com/TobyDJackson/TreeQSM_Architecture/blob/master/Architecture%20larger%20text.png)
+
 This repo conatins matlab functions to calculate tree architecture models from QSMs. 
 If you have TLS point clouds please see https://github.com/InverseTampere/TreeQSM to build QSMs. 
 
