@@ -6,5 +6,5 @@ If you have TLS point clouds please see https://github.com/InverseTampere/TreeQS
 
 Example QSMs can be found here https://github.com/TobyDJackson/WindAndTrees_FEM/tree/master/QSMs
 
-The more interesting architectural measures in this package are: path fraction, crown asymmetry, centre of volume, 
+The script CalculateArchitectures_STRUCT calculates and saves all the architectural measures for QSMs in struct format. The individual functions it calls are contained in Architecture_functions. Other small QSM tools I have found useful are stored in QSM_manipulations. The more interesting architectural measures in this package are: path fraction, crown asymmetry, centre of volume, 
 branching order (multiple definitions), mean branching angle, sail area, mass taper exponent. 
